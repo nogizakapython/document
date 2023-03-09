@@ -1,0 +1,5 @@
+Pythonのデータ型まとめ
+
+Mutable・・・リスト、辞書、集合
+Immutable・・・タプル、文字列、集合(frozenset)
+
