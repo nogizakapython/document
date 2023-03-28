@@ -1,0 +1,10 @@
+ubuntuでrootでログインする方法
+
+1.sudoコマンドでpasswdを設定する
+
+$ sudo passwd root
+
+パスワードを設定する
+
+2.suコマンドに「-」オプションを付けてログインする。
+
